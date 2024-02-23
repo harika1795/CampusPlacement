@@ -16,3 +16,4 @@ Technologies Used:
 
 PowerBi:-Power BI is used for building interactive and visually compelling dashboards. It allows for easy data visualization and analysis.
 
+![amazon](https://github.com/harika1795/Amazon-sales/assets/153234284/8a096e23-c502-46f7-a4f5-dc2bc63fa3e6)
