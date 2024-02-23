@@ -1,3 +1,5 @@
+Amazon Sales
+
 This repository contains the source code and necessary files to set up an Amazon sales dashboard, providing insights into your sales performance on the Amazon platform. This dashboard is designed to offer a visual representation of your sales data, aiding in decision-making and performance analysis.
 
 Features:
