@@ -13,5 +13,6 @@ Geographical Analysis: Gain insights into the geographical distribution of your 
 Customer Insights: Understand your customer base better by exploring customer demographics and purchasing behaviors.
 
 Technologies Used:
+
 PowerBi:-Power BI is used for building interactive and visually compelling dashboards. It allows for easy data visualization and analysis.
 
