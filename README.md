@@ -1,7 +1,9 @@
 **Campus Recruitment ML Algorithm**
+
+
 Welcome to our Campus Recruitment ML Algorithm repository! This project aims to optimize the campus recruiting process by leveraging machine learning techniques. The algorithm utilizes various features such as academic performance, specialization, work experience, and other relevant factors to predict the likelihood of a candidate's success in securing a job placement.
 
-Dataset Description:
+**Dataset Description**:
 The dataset consists of the following variables:
 
 sl_no: Serial number
