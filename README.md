@@ -24,4 +24,5 @@ mba_p: MBA percentage
 status: Placement status
 salary: Salary offered (for placed candidates)
 
-C:\Users\Harika\Downloads\download.jpg
+![download](https://github.com/harika1795/CampusPlacement/assets/153234284/cde8fad5-c186-437e-8e84-242c5c83592f)
+
