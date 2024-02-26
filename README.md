@@ -23,3 +23,5 @@ specialisation: MBA Specialization
 mba_p: MBA percentage
 status: Placement status
 salary: Salary offered (for placed candidates)
+
+C:\Users\Harika\Downloads\download.jpg
